@@ -10,7 +10,7 @@
 
 jQuery WeUI 是专为微信公众账号开发而设计的一个简洁而强大的UI库，包含全部WeUI官方的CSS组件，并且额外提供了大量的拓展组件，丰富的组件库可以极大减少前端开发时间。
 
-更多文档请参阅官网： [https://jqweui.edik.cn/](https://jqweui.edik.cn/)
+更多文档请参阅官网： [https://xiaomizhou.net/](https://xiaomizhou.net/)
 
 微信扫描二维码立刻体验：
 
@@ -29,7 +29,7 @@ jQuery WeUI 是专为微信公众账号开发而设计的一个简洁而强大�
 
 `jQuery WeUI` 的定位正如 `jQuery` 的定位：做一把锋利的小刀，而不是做一个笨重的大炮。
 
-`jQuery WeUI` 只是提供一些常用的UI控件，如果不是很复杂的项目，基本只用 `jQuery WeUI` 即可满足需求。如果项目比较复杂，或者希望实现单页应用，推荐使用 [Vue](https://github.com/vuejs/vue/) 或者 [Angular](https://angular.io/)，或者可以看看我正在开发的另一个项目 [vue-mobile](https://github.com/lihongxun945/vue-mobile)
+`jQuery WeUI` 只是提供一些常用的UI控件，如果不是很复杂的项目，基本只用 `jQuery WeUI` 即可满足需求。如果项目比较复杂，或者希望实现单页应用，推荐使用 [Vue](https://github.com/vuejs/vue/) 或者 [Angular](https://angular.io/)
 
 # 下载
 
