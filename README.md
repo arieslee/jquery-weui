@@ -14,7 +14,7 @@ jQuery WeUI 是专为微信公众账号开发而设计的一个简洁而强大�
 
 微信扫描二维码立刻体验：
 
-![code](https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/code.png)
+![code](https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/code.png)
 
 # 为什么选择 jQuery WeUI
 
