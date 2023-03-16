@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://jqweui.com/">
-    <img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/logo.png" width="250" />
+    <img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/logo.png" width="250" />
   </a>
 </p>
 
@@ -75,8 +75,8 @@ jQuery WeUI 是 MIT 协议的免费开源项目，不会收取任何费用。作
 
 **捐款是纯粹自愿的捐助行为，我将非常感谢您的捐助，但您本人并不会因为您的捐款而获得比其他不捐款用户更多的权利，望理解。**
 
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/vcode/alipay.jpg" width="250" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/vcode/wechat.jpg" width="250" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/vcode/alipay.jpg" width="250" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/vcode/wechat.jpg" width="250" />
 
 # LICENSE
 
@@ -92,13 +92,13 @@ jQuery WeUI 是 MIT 协议的免费开源项目，不会收取任何费用。作
 
 # 组件展示
 
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/grid.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/buttons.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/cell.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/form.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/dialog.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/select.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/calendar.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/address.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/actions.png" width="320" />
-<img src="https://raw.githubusercontent.com/lihongxun945/jquery-weui/master/screenshot/photos.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/grid.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/buttons.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/cell.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/form.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/dialog.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/select.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/calendar.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/address.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/actions.png" width="320" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/photos.png" width="320" />
