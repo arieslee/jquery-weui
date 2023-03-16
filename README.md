@@ -10,7 +10,7 @@
 
 jQuery WeUI 是专为微信公众账号开发而设计的一个简洁而强大的UI库，包含全部WeUI官方的CSS组件，并且额外提供了大量的拓展组件，丰富的组件库可以极大减少前端开发时间。
 
-更多文档请参阅官网： [http://jquery-weui.xiaomizhou.net/](jquery-weui.xiaomizhou.net/)
+更多文档请参阅官网： [https://jquery-weui.xiaomizhou.net/](https://jquery-weui.xiaomizhou.net/)
 
 微信扫描二维码立刻体验：
 
