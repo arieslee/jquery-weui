@@ -76,7 +76,7 @@ jQuery WeUI 是 MIT 协议的免费开源项目，不会收取任何费用。作
 **捐款是纯粹自愿的捐助行为，我将非常感谢您的捐助，但您本人并不会因为您的捐款而获得比其他不捐款用户更多的权利，望理解。**
 
 <img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/zfb.jpg" />
-<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/wx.jpg" />
+<img src="https://raw.githubusercontent.com/arieslee/jquery-weui/master/screenshot/zfb.jpg" />
 
 # LICENSE
 
